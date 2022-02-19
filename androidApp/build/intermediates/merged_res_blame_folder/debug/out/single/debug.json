@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\build\\intermediates\\merged_res\\debug\\layout_list_item_image.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\src\\main\\res\\layout\\list_item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\build\\intermediates\\merged_res\\debug\\font_roboto.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\build\\intermediates\\merged_res\\debug\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\src\\main\\res\\font\\roboto_medium.xml"
+    }
+]

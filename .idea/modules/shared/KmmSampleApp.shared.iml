@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":shared" external.linked.project.path="$MODULE_DIR$/../../../shared" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="KmmSampleApp" external.system.module.version="1.0.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":shared" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.0.0" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false" isTestModule="false" externalProjectId=":shared" pureKotlinSourceFolders="C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\androidDebug\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\debug\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\debug\java;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\androidDebugAndroidTest\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\androidDebugUnitTest\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\androidRelease\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\release\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\release\java;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\androidReleaseUnitTest\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\iosMain\kotlin;C:\Users\user\Desktop\KMM-Sample-App-master\KMM-Sample-App-master\shared\src\iosMain\kotlin">
+        <dependsOnModuleNames>:shared:commonMain</dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>KmmSampleApp.shared.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../shared/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../shared/build/intermediates/compile_r_class_jar/debug/R.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-android/1.6.1/ab7061c3ceff38b6386a8a9f2758ab057bb1780f/ktor-client-android-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/transforms-3/d25d6058759b9d84f54dfe3fbb3fbdee/transformed/napier-debug-api.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.kodein.di/kodein-di-jvm/7.6.0/1ad23f3416476f6a771accd6475596835163c074/kodein-di-jvm-7.6.0.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-logging-jvm/1.6.1/5289b78963a9a2aadc8012dbb00500e33f41ce4a/ktor-client-logging-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-auth-jvm/1.6.1/ca4b617cbadd96647d6badf63aa7cc7524567ed8/ktor-client-auth-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-jvm/1.6.1/83edb4f70cd0dabd7b8b635741ff82f55f4e9329/ktor-client-serialization-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json-jvm/1.6.1/111b74b5aec7404cc29b165cc32c818daec926e4/ktor-client-json-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-jvm/1.6.1/3d3ccb74cbd1c1fd93799bd5d32c9410cdd02ec6/ktor-client-core-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-jvm/1.6.1/bce3354680607efecdaa3cc914dad11164e1c357/ktor-http-cio-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/1.6.1/146b9b4381a60ccf5452e5e262ec7803062afc26/ktor-http-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-jvm/1.6.1/a5203b7cac610107b0923a2ba485d803c0523bbc/ktor-network-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/1.6.1/1b7aabc0058bcfa095c2278e0648607183d086ae/ktor-utils-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-jvm/1.6.1/92c17f6c781ea5d52d5508f435652b4cbd81b9bd/ktor-io-jvm-1.6.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.5.1-native-mt/8809285ea04b602809f76a6f2ff0d5188cc0dceb/kotlinx-coroutines-core-jvm-1.5.1-native-mt.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.kodein.type/kodein-type-jvm/1.7.1/ac8f53223790a68b54f8eca4ac8cdbe98f24b35a/kodein-type-jvm-1.7.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.5.20/636c5653641cd956de9aee5792155b07ea49825e/kotlin-stdlib-jdk8-1.5.20.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.5.20/218b60e1d446d1e0a18bc7aa8663634b136fbcc5/kotlin-stdlib-jdk7-1.5.20.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-jvm/1.2.1/331ae06aefd6c6827c6f10589072ee1845a950c/kotlinx-serialization-json-jvm-1.2.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.2.1/e472959f7e506bc534549002adee5a4f12a8fae3/kotlinx-serialization-core-jvm-1.2.1.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.20/9de35cc611bcecec8edce1d56d8e659953806751/kotlin-stdlib-1.5.20.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/3d79dbd48bf605f4aac1e7028981a1953e245cbb/kotlin-stdlib-common-1.5.20.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.0.0/2577f6b69bbab34bb55634a4500b1b877aeffb7c/logback-classic-1.0.0.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/user/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar;C:/Users/user/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.0.0/b2893bbe71342232031f97faa1cf7bb4d99faced/logback-core-1.0.0.jar;C:/Users/user/AppData/Local/Android/Sdk/platforms/android-30/android.jar;C:/Users/user/AppData/Local/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="shared_debug" />
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.5.20/d64b1d77781bb8d9cd42bef02dff4c706b70fb7f/kotlin-gradle-plugin-api-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.5.20/6747a7f3f7077b61e73b1e0c2becb0413df10522/kotlin-native-utils-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-project-model/1.5.20/e62d5b151b94b0c28cc7cb937acd146401d59bad/kotlin-project-model-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.5.20/4381bb58d37b84d4d1afe55ec35542dd9b77e101/kotlin-script-runtime-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.5.20/5cb42f6dffcaa05963f604bf733c90ca8c766084/kotlin-scripting-common-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.5.20/2fc370670110e51e13dc9795c69ba82632b2fffe/kotlin-scripting-jvm-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/3d79dbd48bf605f4aac1e7028981a1953e245cbb/kotlin-stdlib-common-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.20/9de35cc611bcecec8edce1d56d8e659953806751/kotlin-stdlib-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/1.5.20/f4f6519fc2fc89c7ae7e6b6eb6f53d9e290c05db/kotlin-util-io-1.5.20.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.8/f62be6d4cbf27781c2969867b4ed952f38378492/kotlinx-coroutines-core-1.3.8.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="multiPlatform" value="true" />
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../shared/src/main/res;file://$MODULE_DIR$/../../../shared/src/androidMain/res;file://$MODULE_DIR$/../../../shared/src/debug/res;file://$MODULE_DIR$/../../../shared/src/androidDebug/res;file://$MODULE_DIR$/../../../shared/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../shared/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../shared/src/androidTest/res;file://$MODULE_DIR$/../../../shared/src/androidAndroidTest/res;file://$MODULE_DIR$/../../../shared/src/androidTestDebug/res;file://$MODULE_DIR$/../../../shared/src/androidAndroidTestDebug/res;file://$MODULE_DIR$/../../../shared/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../shared/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../shared">
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidAndroidTest/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidAndroidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidAndroidTestDebug/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidAndroidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidDebug/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidDebug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidDebugAndroidTest/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidDebugAndroidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidDebugUnitTest/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidDebugUnitTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidMain/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidMain/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidRelease/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidRelease/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidReleaseUnitTest/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidReleaseUnitTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTest/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTestDebug/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTestRelease/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/androidTestRelease/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/debug/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/release/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/release/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/release/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/testDebug/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/testRelease/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/testRelease/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/testRelease/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../shared/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../shared/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-mock-jvm:1.6.1" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.5.20">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit/1.5.20/6838cd16f78597f9d0f15d582441edb81c259c1/kotlin-test-junit-1.5.20.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit/1.5.20/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-test-junit-1.5.20-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit/1.5.20/cd79773b5e950e75857393dcd2530c5cbc74bfb9/kotlin-test-junit-1.5.20-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.5.20/128d130527c2bf7a1fbc020e2d6cd713f6810aa0/kotlin-test-common-1.5.20.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.5.20/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-test-common-1.5.20-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.5.20/8685a38101806f06b2a859d0b9fb332dd50b937a/kotlin-test-common-1.5.20-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.5.20/ecc085ef30c50be9473b335242b24db0c2f6cf2b/kotlin-test-annotations-common-1.5.20.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.5.20/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-test-annotations-common-1.5.20-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.5.20/57512e29ee20defe37d54ce19507d599b0f2113/kotlin-test-annotations-common-1.5.20-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test:1.5.20" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-android:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.kodein.di:kodein-di-jvm:7.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-logging-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-auth-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-serialization-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-json-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-jvm:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.1-native-mt" level="project" />
+    <orderEntry type="library" name="Gradle: org.kodein.type:kodein-type-jvm:1.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/3d79dbd48bf605f4aac1e7028981a1953e245cbb/kotlin-stdlib-common-1.5.20.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-common-1.5.20-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/a074c913bd80f1f3b5a21789a609580e76208831/kotlin-stdlib-common-1.5.20-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: ch.qos.logback:logback-classic:1.0.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.0.0/2577f6b69bbab34bb55634a4500b1b877aeffb7c/logback-classic-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.0.0/29c73ec71f966c98acaa2ac99b92e83b2c405eb/logback-classic-1.0.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.0.0/eebfd12633815cc6ac32968896436bbf74390688/logback-classic-1.0.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: ch.qos.logback:logback-core:1.0.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.0.0/b2893bbe71342232031f97faa1cf7bb4d99faced/logback-core-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.0.0/54d45ac40b776dc729c72fbfdc56f7c4385443e3/logback-core-1.0.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.0.0/6b0ad3360ba11612e75aea121c3979a5a6750f90/logback-core-1.0.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.github.aakira:napier-android-debug:1.5.0@aar" level="project" />
+    <orderEntry type="module" module-name="KmmSampleApp.shared.androidAndroidTestRelease" scope="TEST" />
+    <orderEntry type="module" module-name="KmmSampleApp.shared.commonMain" />
+    <orderEntry type="module" module-name="KmmSampleApp.shared.commonTest" scope="TEST" production-on-test="" />
+  </component>
+</module>

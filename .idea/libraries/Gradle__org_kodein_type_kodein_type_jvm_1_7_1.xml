@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kodein.type:kodein-type-jvm:1.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.type/kodein-type-jvm/1.7.1/ac8f53223790a68b54f8eca4ac8cdbe98f24b35a/kodein-type-jvm-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.type/kodein-type-jvm/1.7.1/e1ecba68450d997039e2ddbedbd9c26807d2422a/kodein-type-jvm-1.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.type/kodein-type-jvm/1.7.1/e5da43d430683c760d551f289d1959091356dde6/kodein-type-jvm-1.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

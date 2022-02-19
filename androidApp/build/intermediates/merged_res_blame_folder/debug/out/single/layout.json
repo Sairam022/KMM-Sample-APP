@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_image.xml",
+        "source": "C:\\Users\\user\\Desktop\\KMM-Sample-App-master\\KMM-Sample-App-master\\androidApp\\src\\main\\res\\layout\\list_item_image.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-mock-iosx64:klib:1.6.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-mock-iosx64/1.6.1/a414566d70d61ae827b4ce9be9f9cd7bfde3732d/ktor-client-mock.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-mock-iosx64/1.6.1/e9ea22c452c16a4a38a86894351ffb1ff9c70fc9/ktor-client-mock-iosx64-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

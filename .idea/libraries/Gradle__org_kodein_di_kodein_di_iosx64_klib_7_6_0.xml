@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kodein.di:kodein-di-iosx64:klib:7.6.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.di/kodein-di-iosx64/7.6.0/cfca1ceb73f469c3085f909a4cb77e5ce8a9c1ac/kodein-di.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.di/kodein-di-iosx64/7.6.0/aa76c5664bb8fcafa940061f896c91d4d66489d9/kodein-di-iosx64-7.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

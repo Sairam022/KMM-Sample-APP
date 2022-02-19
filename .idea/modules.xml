@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KmmSampleApp.iml" filepath="$PROJECT_DIR$/.idea/modules/KmmSampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/KmmSampleApp.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/KmmSampleApp.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KmmSampleApp.shared.iosTest.iml" />
+    </modules>
+  </component>
+</project>
